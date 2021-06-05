@@ -1,3 +1,3 @@
-# Your blog
+# Statistics and Machine Learning
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I eagerly look forward to everyone's collaboration and updates on this blog.
