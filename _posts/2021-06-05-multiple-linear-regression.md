@@ -2,6 +2,18 @@
 
 Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (predictor) variables and a response (predicted) variable.
 
+True values (in the training set):
+
+$$
+y=β_0+β_1x_1+β_2x_2+β_3x_3+..+β_nx_n+e
+$$
+
+Mode equation:
+
+$$
+ŷ=β_0+β_1x_1+β_2x_2+β_3x_3+..+β_nx_n
+$$
+
 We show in this article an implementation of MLR in python using the famous scikit-learn package.
 
 ## Dataset details
