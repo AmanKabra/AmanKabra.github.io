@@ -11,7 +11,7 @@ $$
 Mode equation:
 
 $$
-ŷ=β_0+β_1x_1+β_2x_2+β_3x_3+..+β_nx_n
+\hat{y}=\hat{β}_0+\hat{β}_1x_1+\hat{β}_2x_2+\hat{β}_3x_3+..+\hat{β}_nx_n
 $$
 
 We show in this article an implementation of MLR in python using the famous scikit-learn package.
@@ -36,7 +36,7 @@ Data attributes:
 
 First, import necessary packages.
 
-```
+```python
 import pandas as pd
 import numpy as np
 from sklearn import linear_model
@@ -45,7 +45,7 @@ from sklearn.model_selection import train_test_split
 
 Next, import the dataset with simultaneous naming of the columns. The data is in the *.data* format.
 
-```
+```python
 names = [
        'mpg'
     ,  'cylinders'
@@ -63,7 +63,7 @@ df = pd.read_csv('auto-mpg.data', sep = '\s+', header = None, names = names)
 
 Let’s see the column names, head of the dataframe, summary about the various column types, and size of the dataframe.
 
-```
+```python
 print(df.columns)
 print(df.head())
 print(df.info())
@@ -106,7 +106,7 @@ Note that the dataset granularity is at a car level, i.e., the car name is uniqu
 
 Next, we drop the rows that have one or more NA values. Since this data contains NAs as “?”, we convert the “?” symbols to NA first.
 
-```
+```python
 df_clean=df.applymap(lambda x: np.nan if x == '?' else x).dropna()
 print(df_clean.shape)
 
@@ -119,7 +119,7 @@ Notice that 6 rows have been removed in the dataframe.
 
 Next, we store the predictor variables in X and the predicted variable in y. Then, we split the dataset into two sets: training and testing (in the ratio (80:20).
 
-```
+```python
 #Select predictor columns
 X = df_clean[['cylinders', 'displacement', 'horsepower', 'weight', 'acceleration', 'model_year', 'origin']]
 
@@ -132,7 +132,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8, test_s
 
 We now define an object of LinearRegression() and fit it on the training set.
 
-```
+```python
 LR = linear_model.LinearRegression()
 LR.fit(X_train, y_train)
 
@@ -150,7 +150,7 @@ Efficiency of the model on test data 0.7657125224195827
 
 We now need to check for multicollinearity among the predictor variables. This piece of code gives the VIF values for the code.
 
-```
+```python
 cc = np.corrcoef(X_train, rowvar=False)
 VIF = np.linalg.inv(cc)
 VIF.diagonal()
@@ -173,7 +173,7 @@ You might also
 
 Optional: In some cases, you might be interested in printing the detailed regression output table in a PDF. You can print the output in Latex format (tex file) using the code below.
 
-```
+```python
 beginningtex = """\\documentclass{report}
 \\usepackage{booktabs}
 \\begin{document}"""
