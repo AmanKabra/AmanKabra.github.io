@@ -18,14 +18,8 @@ SVCs
 
 4. For four and more dimensions: The human mind cannot conceive the graph. A hyperplane. (flat affine subspace)
 
-
-
-
-
-
+5. asdkjahdkj [^1] 
 
 Extra notes: Technically speaking, all flat affine subspaces are known as hyperplanes. But the term "hyperplane" is mainly used when we cannot draw the figure on paper.
-
-
 
 
