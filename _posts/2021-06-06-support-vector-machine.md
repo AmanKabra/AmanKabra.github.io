@@ -20,8 +20,4 @@ SVCs
 
 However, support vector classifier fails when the data cannot be segregated easily. Therefore, what we need is a Support Vector Machine (SVM).
 
-
-
 Extra notes: Technically speaking, all flat affine subspaces are known as hyperplanes. But the term "hyperplane" is mainly used when we cannot draw the figure on paper.
-
-
