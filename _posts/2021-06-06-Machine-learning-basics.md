@@ -52,8 +52,37 @@ If I have to sum up the objective of a machine learning exercise, it is to choos
 In mathematical terms,
 
 $$
-Choose \ \theta  \ni \hat y \approx y 
+Choose \ \theta \ni \hat y \approx y 
 \ for \ the \ training \ sample \ set.
 $$
 
-The objective in multiple linear regression is to 
+In this mathematical representation, feel free to substitute $\hat y$ with $h_\theta(x)$. The $\theta$ in the subscript highlights the fact that $h$ depends on both $\theta$ and $x$.
+
+The objective in multiple linear regression is to:
+
+$$
+\min_\theta \ \sum_{i=1}^m \big(h_\theta(x^i)-y^i\big)^2
+$$
+
+
+$$
+J(\theta) = \frac{1}{2} \sum_{i=1}^m \big(h_\theta(x^i)-y^i\big)^2
+$$
+
+Our objective? Minimise $J(\theta)$. How do we accomplish that? 
+
+1. Start with some random value of $\theta$.
+
+2. Keep changing the value of theta to redue the value of the cost function $\big($which is $J(\theta)\big)$ such that $J(\theta)$ gets minimised.
+
+$$
+\theta_j:= \theta_j - 
+\alpha \frac{\partial}{\theta_j}J(\theta) \\
+
+
+\implies \theta_j:= \theta_j - 
+\alpha \sum_{i=1}^m \big(h_\theta(x^i)-y^i\big)x_j^i \\
+(repeat \ this \ till \ convergence)
+$$
+
+Note: The colon symbol in the above formula refers to the assignment operation (the value of $\theta_j$ gets updated). $\alpha$ refers to the learning rate.
