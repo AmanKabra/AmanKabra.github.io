@@ -64,6 +64,7 @@ $$
 \min_\theta \ \sum_{i=1}^m \big(h_\theta(x^i)-y^i\big)^2
 $$
 
+The cost function is typically written as $J(\theta)$. In the expression for the loss function in multiple linear regression, a factor of $\frac{1}{2}$ is typically multipled to easen the differntiation exercise.
 
 $$
 J(\theta) = \frac{1}{2} \sum_{i=1}^m \big(h_\theta(x^i)-y^i\big)^2
