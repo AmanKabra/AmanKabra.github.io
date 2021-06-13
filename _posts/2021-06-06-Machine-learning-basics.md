@@ -90,8 +90,6 @@ This is called batch gradient descent. We are trying to go down on the gradient 
 Instead, a pragmatically better approach is to use stochastic gradient descent.
 
 $$
-Do \ for \ each \ \theta: \\
-
 for \ j=1 \ to \ m:\\
 
 \theta_j:= \theta_j - \alpha \big(h_\theta(x^i)-y^i\big)x_j^i \\
