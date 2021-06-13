@@ -1,5 +1,24 @@
 # Common Concepts and terminologies
 
-## Loss function vs cost function
+## Properties of variance
 
-The terms **cost and loss functions** almost refer to the same meaning. The **cost function** is calculated as an average of **loss functions**. The **loss function** is a value which is calculated at every instance. So, for a single training cycle **loss** is calculated numerous times, but the **cost function** is only calculated once.
+$$
+\operatorname {Var}(X) =\operatorname{E}\left[(X-\mu )^{2}\right] \\
+
+Now, \ since \ \mu = E[X],\\
+
+
+\begin{split}
+\operatorname {Var}(X)&=\operatorname{E}[(X-\operatorname {E} [X])^{2}]\\
+&=\operatorname {E} [X^{2}-2X\operatorname {E} [X]+\operatorname {E} [X]^{2}]\\
+&=\operatorname {E} [X^{2}]-2\operatorname {E} [X]\operatorname {E} [X]+\operatorname {E} [X]^{2} \\
+&=\operatorname {E} [X^{2}]-\operatorname {E} [X]^{2}
+\end{split}\\
+
+\operatorname{Var}(X)\geq 0 \\
+\operatorname{Var}(a)=0 \\
+\operatorname{Var}(X+a)=\operatorname{Var}(X) \\
+\operatorname{Var}(aX)=a^{2}\operatorname{Var}(X) \\
+\operatorname{Var}(aX+bY)=a^{2}\operatorname{Var}(X)+b^{2}\operatorname{Var}(Y)+2ab\operatorname{Cov}(X,Y) \\
+$$
+
