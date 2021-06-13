@@ -102,3 +102,42 @@ $$
 $$
 
 This is termed as **normal equation**.
+
+## Logistic Regression
+
+```python
+import numpy as np 
+import pandas as pd 
+
+df=pd.read_csv('framingham.csv')
+df.dropna(axis=0, inplace=True)
+X=df.iloc[:,:-1].values
+y=df.iloc[:,-1].values
+df.head()
+
+df.isnull().sum()
+
+#Splitting the dataset into the Training set and Test set
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.20,random_state=42)
+
+from sklearn.preprocessing import StandardScaler
+sc=StandardScaler()
+X_train = sc.fit_transform(X_train)
+X_test = sc.transform(X_test)
+
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression(random_state=0)
+model.fit(X_train,y_train)
+y_pred = model.predict(X_test)
+
+from sklearn.metrics import confusion_matrix, precision_recall_fscore_support
+cm=confusion_matrix(y_test,y_pred)
+print(cm)
+
+recall = cm[0][0]/(cm[0][0] + cm[1][0])
+print(recall)
+
+prfs = precision_recall_fscore_support(y_test, y_pred)
+print(recall)
+```
