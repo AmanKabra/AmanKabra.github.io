@@ -8,7 +8,7 @@ Note that in the machine learning terminologies,
 
 - $m$: traning samples
 
-- x: features (or inputs)
+- $x$: features (or inputs)
 
 - $n$: number of features
 
@@ -28,7 +28,7 @@ $$
 y= \beta_0+\beta_1x_1+\beta_2x_2+\beta_3x_3+..+\beta_nx_n+e
 $$
 
-Mode equation:
+Model equation:
 
 $$
 \hat{y}=h(x)=\hat{\beta}_0+\hat{\beta}_1x_1+\hat{\beta}_2x_2+
@@ -39,10 +39,7 @@ $$
 
 \theta = \begin{bmatrix}\theta_0 \\ \theta_1 \\ \theta_2 \\ \vdots \\ 
 \theta_n\end{bmatrix} , x = \begin{bmatrix}x_0 \\ x_1 \\ x_2 \\ \vdots \\ 
-x_n\end{bmatrix}  
-
-
-
+x_n\end{bmatrix}
 $$
 
 Note that in the mathemantical representations of machine learning models (think econometrics), any term that carries a *hat* refers to an estimated value obtained from training the model. For instance, $\hat y$ refers to the estimated (or predicted) valye of y obtained using the model.
@@ -87,3 +84,23 @@ $$
 $$
 
 Note: The colon symbol in the above formula refers to the assignment operation (the value of $\theta_j$ gets updated). $\alpha$ refers to the learning rate.
+
+This is called batch gradient descent. We are trying to go down on the gradient (slope) to reach the local minima. However, the problem with batch gradient is that the entire term $\alpha \sum_{i=1}^m \big(h_\theta(x^i)-y^i\big)x_j^i$ needs to be calculated by scanning through thie entire training database for each update to the parameters (i.e., for each step in the gradient descent). In Big Data, this is quite expensive (in terms of time and resources)!
+
+Instead, a pragmatically better approach is to use stochastic gradient descent.
+
+$$
+Do \ for \ each \ \theta: \\
+
+for \ j=1 \ to \ m:\\
+
+\theta_j:= \theta_j - \alpha \big(h_\theta(x^i)-y^i\big)x_j^i \\
+$$
+
+However, one doesn't need to go through gradient descent for linear regression. It turns out that there is closed form solution for multiple linear regression. We provide below the equation without its derivation.
+
+$$
+\theta = (X^TX)^{-1}X^Ty
+$$
+
+This is termed as **normal equation**.
