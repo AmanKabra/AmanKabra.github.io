@@ -1,8 +1,10 @@
-# Sum of Squares (SS)
+# Statistical Methods for Behavioral Sciences
+
+## Sum of Squares (SS)
 
 $$
 \begin{split}
-SS &= \sum_{i=1}^N(x_i-\bar X)^2\\
+\operatorname{SS} &= \sum_{i=1}^N(x_i-\bar X)^2\\
 
 &=\sum_{i=1}^N(x_i^2 - 2x_i\bar X + \bar X^2)\\
 
@@ -15,6 +17,8 @@ SS &= \sum_{i=1}^N(x_i-\bar X)^2\\
 &=\sum_{i=1}^N x_i^2 - N\bar X^2
 \end{split}
 $$
+
+## Variance
 
 $$
 \begin{split}
