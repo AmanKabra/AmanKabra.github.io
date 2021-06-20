@@ -21,4 +21,3 @@ Now, \ since \ \mu = E[X],\\
 \operatorname{Var}(aX)=a^{2}\operatorname{Var}(X) \\
 \operatorname{Var}(aX+bY)=a^{2}\operatorname{Var}(X)+b^{2}\operatorname{Var}(Y)+2ab\operatorname{Cov}(X,Y) \\
 $$
-
