@@ -2,14 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at the Smeal College of Business, Pennsylvania State University.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+I am committed to fostering an entrepreneurial mindset and evidence-based thinking in the classroom. In 2024, I received the **Ossian R. MacKenzie Teaching Award**, awarded annually to one doctoral student across all departments in the Smeal College of Business for teaching performance.
 
 {% include courses.liquid %}

@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"C:/Users/amank/Downloads/Pic_temp.png\" \"C:/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/assets/img/prof_pic.png\")",
+      "Bash(rm \"C:/Users/amank/Downloads/Pic_temp.png\")",
+      "Bash(rm -f _teachings/introduction-to-machine-learning.md _teachings/data-science-fundamentals.md)",
+      "Bash(rm -f _news/announcement_1.md _news/announcement_2.md _news/announcement_3.md)",
+      "Bash(rm -f _pages/about_einstein.md)",
+      "Bash(rm -rf _posts/*)",
+      "Bash(rm -rf _projects/*)",
+      "Bash(ruby --version)",
+      "Bash(docker --version)",
+      "Bash(bundle --version)",
+      "Bash(grep -n \"nav:\" _pages/*.md)",
+      "Bash(gh auth:*)",
+      "Bash(git config:*)",
+      "Bash(where gh:*)",
+      "Bash(winget install:*)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(unset GITHUB_TOKEN)",
+      "Bash(gh repo:*)"
+    ]
+  }
+}
