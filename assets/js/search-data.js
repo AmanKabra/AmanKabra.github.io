@@ -71,4 +71,11 @@ ninja.data = [{
         handler: () => {
           window.open("mailto:%61%6D%61%6E.%6B%61%62%72%61@%70%73%75.%65%64%75", "_blank");
         },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/amankabra", "_blank");
+        },
       },];
