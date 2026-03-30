@@ -2,7 +2,7 @@ cv:
   name: Aman Kabra
   label: Ph.D. Candidate & Incoming Assistant Professor
   email: aman.kabra@psu.edu
-  location: University Park, PA
+  location: USA
   image: ""
   summary: Organizational behavior researcher studying judgment and decision making, and group dynamics.
 
@@ -15,7 +15,7 @@ cv:
   sections:
     Education:
       - institution: Pennsylvania State University
-        location: University Park, PA
+        location: USA
         area: "Management & Organization (Track: Organizational Behavior)"
         studyType: Ph.D.
         start_date: 2021
@@ -25,7 +25,7 @@ cv:
           - "Committee: S. E. Humphrey (chair), M. M. Luciano, S. Park, J. M. LeBreton"
 
       - institution: BITS Pilani
-        location: Pilani, India
+        location: India
         area: Manufacturing Engineering
         studyType: B.E. (Hons.)
         start_date: 2013
@@ -34,13 +34,13 @@ cv:
     Experience:
       - company: Oklahoma State University
         position: Assistant Professor (tenure track)
-        location: Stillwater, OK
+        location: USA
         start_date: 2026
         summary: Department of Management, Spears School of Business. Effective July 2026.
 
       - company: Pennsylvania State University
         position: Graduate Research & Teaching Assistant
-        location: University Park, PA
+        location: USA
         start_date: 2021
         end_date: 2026
         highlights:
@@ -49,7 +49,7 @@ cv:
 
       - company: Indian School of Business
         position: Research Associate
-        location: Hyderabad, India
+        location: India
         start_date: 2019
         end_date: 2021
 
