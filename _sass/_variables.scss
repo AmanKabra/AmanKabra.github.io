@@ -29,7 +29,7 @@ $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
-$white-color: #fffff8 !default; // Tufte off-white
+$white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Theme colors
@@ -49,4 +49,4 @@ $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
 // Max width default
-$max-content-width: 830px !default;
+$max-content-width: 930px !default;

@@ -18,7 +18,15 @@
       "Bash(winget install:*)",
       "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
       "Bash(unset GITHUB_TOKEN)",
-      "Bash(gh repo:*)"
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "Bash(gh workflow:*)",
+      "Bash(gh run:*)",
+      "Bash(python3 -c \":*)",
+      "Bash(curl -sI https://amankabra.github.io/)",
+      "WebFetch(domain:amankabra.github.io)",
+      "Bash(rm -f assets/img/1.jpg assets/img/2.jpg assets/img/3.jpg assets/img/4.jpg assets/img/5.jpg assets/img/6.jpg assets/img/7.jpg assets/img/8.jpg assets/img/9.jpg assets/img/10.jpg assets/img/11.jpg assets/img/12.jpg assets/img/prof_pic_color.png assets/img/rhino.png assets/img/template_error.png)",
+      "Bash(rm -rf assets/img/book_covers assets/img/publication_preview)"
     ]
   }
 }
