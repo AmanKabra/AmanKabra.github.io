@@ -15,7 +15,7 @@ cv:
       - institution: Pennsylvania State University
         location: University Park, PA
         url: https://www.smeal.psu.edu/management
-        area: Management & Organization (Track: Organizational Behavior)
+        area: "Management & Organization (Track: Organizational Behavior)"
         studyType: Ph.D.
         start_date: 2021
         end_date: 2026
