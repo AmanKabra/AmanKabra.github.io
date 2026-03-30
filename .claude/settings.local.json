@@ -39,7 +39,8 @@
       "WebFetch(domain:scholar.google.com)",
       "WebFetch(domain:www.researchgate.net)",
       "Bash(rm -f _data/repositories.yml)",
-      "Bash(ls *.md)"
+      "Bash(ls *.md)",
+      "Bash(find '/c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/_includes' -name *.liquid -type f)"
     ]
   }
 }

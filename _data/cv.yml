@@ -73,61 +73,19 @@ cv:
         summary: Summer and winter internships during undergraduate program.
 
     Conference Presentations:
-      - title: "Expertise evaluation: A dimensional framework"
-        date: 2026
-        awarder: Academy of Management
-        summary: "86th Annual Meeting, Philadelphia, PA (with M. E. Schouten, S. E. Humphrey)"
-
-      - title: "Confidence asymmetry in multiteam systems"
-        date: 2025
-        awarder: INGRoup
-        summary: "20th Annual Conference, Rotterdam, Netherlands (with S. E. Humphrey, M. M. Luciano, M. K. Watson)"
-
-      - title: "Imagined interactions at work"
-        date: 2025
-        awarder: Academy of Management
-        summary: "85th Annual Meeting, Copenhagen, Denmark (with E. Kwon, S. Yoon, J. LePine, M. Cannon, V. Blocker)"
-
-      - title: "Confidence asymmetry in multiteam systems"
-        date: 2024
-        awarder: Academy of Management
-        summary: "84th Annual Meeting, Chicago, IL. Symposium chair."
-
-      - title: "Computational modeling in groups and teams"
-        date: 2024
-        awarder: INGRoup
-        summary: "19th Annual Conference, Charlotte, NC. Symposium co-chair."
-
-      - title: "Expertise recognition: A multilevel process model"
-        date: 2022
-        awarder: INGRoup
-        summary: "17th Annual Conference, Hamburg, Germany"
-
-      - title: "Desensitizing taboo tradeoffs"
-        date: 2022
-        awarder: Academy of Management
-        summary: "82nd Annual Meeting, Seattle, WA (with A. Gupta, M. M. Pillutla)"
+      - bullet: "Schouten, M. E., **Kabra, A.**, & Humphrey, S. E. (2026). Expertise evaluation: A dimensional framework. 86th Annual Meeting of the Academy of Management, Philadelphia, PA."
+      - bullet: "**Kabra, A.**, Humphrey, S. E., Luciano, M. M., & Watson, M. K. (2025). Confidence asymmetry in multiteam systems. 20th Annual INGRoup Conference, Rotterdam, Netherlands."
+      - bullet: "Kwon, E., Yoon, S., LePine, J., Cannon, M., **Kabra, A.**, & Blocker, V. (2025). A looming vulnerability perspective on work-related imagined interactions. 85th Annual Meeting of the Academy of Management, Copenhagen, Denmark."
+      - bullet: "**Kabra, A.**, Humphrey, S. E., Watson, M. K., & Luciano, M. M. (2024). Confidence asymmetry between echelons. Symposium chair, 84th Annual Meeting of the Academy of Management, Chicago, IL."
+      - bullet: "**Kabra, A.**, Vancouver, J., Griffin, D., et al. (2024). Computational modeling in groups and teams. Symposium co-chair, 19th Annual INGRoup Conference, Charlotte, NC."
+      - bullet: "Schouten, M. E., Humphrey, S. E., & **Kabra, A.** (2022). Expertise recognition: A multilevel process model. 17th Annual INGRoup Conference, Hamburg, Germany."
+      - bullet: "Gupta, A., **Kabra, A.**, & Pillutla, M. M. (2022). Desensitizing taboo tradeoffs. 82nd Annual Meeting of the Academy of Management, Seattle, WA."
 
     Grants:
-      - title: Task Interdependence in Multiteam Systems
-        date: 2021
-        awarder: U.S. Army Research Institute
-        summary: "$2.2M (2021--2024). Doctoral student lead at Penn State."
-
-      - title: Summer Research Grant
-        date: 2023
-        awarder: U.S. Army Research Institute
-        summary: "$4,400 per year (2023--2025)"
-
-      - title: Smeal Small Research Grant Award
-        date: 2023
-        awarder: Pennsylvania State University
-        summary: "Multiple awards (2023--2025)"
-
-      - title: Summer Research Grant
-        date: 2022
-        awarder: Pennsylvania State University
-        summary: "$2,979"
+      - bullet: "**Task Interdependence in Multiteam Systems.** U.S. Army Research Institute, $2.2M (2021--2024). Doctoral student lead at Penn State."
+      - bullet: "**Summer Research Grant.** U.S. Army Research Institute, $4,400/year (2023--2025)."
+      - bullet: "**Smeal Small Research Grant Award.** Pennsylvania State University, multiple awards (2023--2025)."
+      - bullet: "**Summer Research Grant.** Pennsylvania State University, $2,979 (2022)."
 
     Awards:
       - title: Ossian R. MacKenzie Teaching Award
@@ -146,15 +104,8 @@ cv:
         summary: "$1,470 per year (2021--2026)"
 
     Teaching:
-      - title: "Entrepreneurial Mindset (Fall 2024)"
-        date: 2024
-        awarder: Penn State, Smeal College of Business
-        summary: "Undergraduate, 3 credits (student rating: 5/5)"
-
-      - title: "Entrepreneurial Mindset (Spring 2024)"
-        date: 2024
-        awarder: Penn State, Smeal College of Business
-        summary: "Undergraduate, 3 credits (student rating: 5/5)"
+      - bullet: "**Entrepreneurial Mindset**, Penn State, undergraduate, 3 credits, Fall 2024 (student rating: 5/5)."
+      - bullet: "**Entrepreneurial Mindset**, Penn State, undergraduate, 3 credits, Spring 2024 (student rating: 5/5)."
 
     Skills:
       - name: Programming
@@ -205,15 +156,8 @@ cv:
         icon: fa-solid fa-certificate
 
     Professional Affiliations:
-      - title: Academy of Management
-        date: 2021
-        awarder: ""
-        summary: "Member (2021--present)"
-
-      - title: INGRoup
-        date: 2021
-        awarder: ""
-        summary: "Member (2021--present)"
+      - bullet: "Academy of Management (2021--present)"
+      - bullet: "INGRoup (2021--present)"
 
     References:
       - name: Stephen E. Humphrey
