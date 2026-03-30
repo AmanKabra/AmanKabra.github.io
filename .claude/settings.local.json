@@ -26,7 +26,18 @@
       "Bash(curl -sI https://amankabra.github.io/)",
       "WebFetch(domain:amankabra.github.io)",
       "Bash(rm -f assets/img/1.jpg assets/img/2.jpg assets/img/3.jpg assets/img/4.jpg assets/img/5.jpg assets/img/6.jpg assets/img/7.jpg assets/img/8.jpg assets/img/9.jpg assets/img/10.jpg assets/img/11.jpg assets/img/12.jpg assets/img/prof_pic_color.png assets/img/rhino.png assets/img/template_error.png)",
-      "Bash(rm -rf assets/img/book_covers assets/img/publication_preview)"
+      "Bash(rm -rf assets/img/book_covers assets/img/publication_preview)",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:journals.aom.org)",
+      "WebFetch(domain:bmchealthservres.biomedcentral.com)",
+      "WebFetch(domain:www.inderscience.com)",
+      "WebSearch",
+      "WebFetch(domain:link.springer.com)",
+      "WebFetch(domain:www.inderscienceonline.com)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.mdpi.com)",
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:www.researchgate.net)"
     ]
   }
 }

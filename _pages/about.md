@@ -11,7 +11,6 @@ profile:
   image: prof_pic.png
   image_circular: false
   more_info: >
-    <p>aman.kabra@psu.edu</p>
 
 selected_papers: true
 social: true
