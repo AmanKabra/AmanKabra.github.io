@@ -1,6 +1,6 @@
 function determineGiscusTheme() {
   
-    return "light";
+    return "";
   
 }
 
@@ -11,15 +11,15 @@ function determineGiscusTheme() {
     src: "https://giscus.app/client.js",
     "data-repo": "AmanKabra/AmanKabra.github.io",
     "data-repo-id": "",
-    "data-category": "Comments",
+    "data-category": "",
     "data-category-id": "",
-    "data-mapping": "title",
-    "data-strict": "1",
-    "data-reactions-enabled": "1",
-    "data-emit-metadata": "0",
-    "data-input-position": "bottom",
+    "data-mapping": "",
+    "data-strict": "",
+    "data-reactions-enabled": "",
+    "data-emit-metadata": "",
+    "data-input-position": "",
     "data-theme": giscusTheme,
-    "data-lang": "en",
+    "data-lang": "",
     crossorigin: "anonymous",
     async: true,
   };
