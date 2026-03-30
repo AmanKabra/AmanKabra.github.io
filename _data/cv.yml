@@ -14,68 +14,60 @@ cv:
     Education:
       - institution: Pennsylvania State University
         location: University Park, PA
-        url: https://www.smeal.psu.edu/management
         area: "Management & Organization (Track: Organizational Behavior)"
         studyType: Ph.D.
         start_date: 2021
         end_date: 2026
         highlights:
           - "Dissertation: Beyond Workload: How Demand Configurations Shape Collective Strain"
-          - "Committee: Stephen E. Humphrey (chair), Margaret M. Luciano, Semin Park, James M. LeBreton"
+          - "Committee: S. E. Humphrey (chair), M. M. Luciano, S. Park, J. M. LeBreton"
 
-      - institution: Birla Institute of Technology and Science (BITS), Pilani
+      - institution: BITS Pilani
         location: Pilani, India
         area: Manufacturing Engineering
         studyType: B.E. (Hons.)
         start_date: 2013
         end_date: 2017
 
-    Academic Appointment:
-      - company: Oklahoma State University
-        position: Assistant Professor (tenure track) in Organizational Behavior
-        location: Spears School of Business, Stillwater, OK
-        start_date: 2026-07-01
-        summary: Department of Management
-
     Experience:
+      - company: Oklahoma State University
+        position: Assistant Professor (tenure track)
+        location: Stillwater, OK
+        start_date: 2026
+        summary: Department of Management, Spears School of Business. Effective July 2026.
+
       - company: Pennsylvania State University
         position: Graduate Research & Teaching Assistant
-        location: Smeal College of Business, University Park, PA
+        location: University Park, PA
         start_date: 2021
         end_date: 2026
         highlights:
-          - "Doctoral student lead on $2.2M U.S. Army Research Institute grant (PI: Hollenbeck, Humphrey, LePine)"
-          - "Instructor of Record: Entrepreneurial Mindset (student rating: 5/5)"
+          - "Doctoral student lead on $2.2M U.S. Army Research Institute grant"
+          - "Instructor of Record: Entrepreneurial Mindset (5/5)"
 
-      - company: Indian School of Business (ISB)
+      - company: Indian School of Business
         position: Research Associate
         location: Hyderabad, India
         start_date: 2019
         end_date: 2021
-        highlights:
-          - "Worked with Madan Pillutla and Sarang Deo on research in organizational behavior and health care operations"
 
       - company: Pebble Sierra Academy & Consultancy
         position: Founder and CEO
         location: India
         start_date: 2018
         end_date: 2019
-        highlights:
-          - "Delivered operational improvement consulting; clientele of 9 MSMEs and 17 universities; managed 6 employees and 8 contract consultants"
 
       - company: InMobi
-        position: Campaign Manager, Global Brand Delivery
+        position: Campaign Manager
         location: India
         start_date: 2017
         end_date: 2018
-        highlights:
-          - "Managed advertising campaigns across Malaysia, Singapore, Vietnam, Thailand, and the Philippines (portfolio > $1.5M)"
 
     Awards:
       - title: Ossian R. MacKenzie Teaching Award
         date: 2024
         awarder: Pennsylvania State University
-        summary: "Awarded annually to one doctoral student across all departments in the Smeal College of Business for teaching performance ($1,000)"
+        summary: "One doctoral student across Smeal College of Business ($1,000)"
 
       - title: Gerald I. Susman Endowment Award
         date: 2023
@@ -88,14 +80,14 @@ cv:
         summary: "$1,470 per year (2021--2026)"
 
     Grants:
-      - title: "Task Interdependence in Multiteam Systems"
+      - title: Task Interdependence in Multiteam Systems
         date: 2021
-        awarder: U.S. Army Research Institute for the Behavioral and Social Sciences
-        summary: "$2.2 million (2021--2024). Joint grant among Michigan State, Penn State, and Arizona State. Role: doctoral student lead at Penn State."
+        awarder: U.S. Army Research Institute
+        summary: "$2.2M (2021--2024). Doctoral student lead at Penn State."
 
       - title: Summer Research Grant
         date: 2023
-        awarder: U.S. Army Research Institute for the Behavioral and Social Sciences
+        awarder: U.S. Army Research Institute
         summary: "$4,400 per year (2023--2025)"
 
       - title: Smeal Small Research Grant Award
@@ -108,24 +100,18 @@ cv:
         awarder: Pennsylvania State University
         summary: "$2,979"
 
-    Teaching:
-      - title: Entrepreneurial Mindset
-        date: 2024
-        awarder: Smeal College of Business, Pennsylvania State University
-        summary: "Undergraduate, 3 credits. Spring 2024 (5/5) and Fall 2024 (5/5)."
-
     Skills:
       - name: Programming
         icon: fa-solid fa-code
         keywords: "Python, R, LaTeX"
 
-      - name: Statistical Methods
+      - name: Methods
         icon: fa-solid fa-chart-line
-        keywords: "Experimental design, mixed methods, longitudinal analysis, multilevel modeling, computational modeling"
+        keywords: "Experimental design, mixed methods, multilevel modeling, computational modeling"
 
-      - name: Data Tools
+      - name: Tools
         icon: fa-solid fa-database
-        keywords: "Qualtrics, REDCap, Gorilla, MTurk, Prolific, Tableau, Power BI, NVivo, LIWC"
+        keywords: "Qualtrics, REDCap, Gorilla, MTurk, Prolific, Tableau, NVivo, LIWC"
 
     Interests:
       - name: Judgment & Decision Making
@@ -137,7 +123,7 @@ cv:
         keywords: "Multiteam systems, team design, organizational structure"
 
     Certificates:
-      - name: Natural Language Processing in Python
+      - name: NLP in Python
         date: 2020
         issuer: DeepLearning.AI
         icon: fa-solid fa-robot
@@ -147,12 +133,12 @@ cv:
         issuer: IBM
         icon: fa-solid fa-database
 
-      - name: Lean Six Sigma Black Belt Professional
+      - name: Lean Six Sigma Black Belt
         date: 2019
         issuer: QAI Global
         icon: fa-solid fa-award
 
-      - name: Lean Six Sigma Green Belt Professional
+      - name: Lean Six Sigma Green Belt
         date: 2015
         issuer: KPMG
         icon: fa-solid fa-certificate
@@ -161,30 +147,30 @@ cv:
       - title: Academy of Management
         date: 2021
         awarder: ""
-        summary: "Member (2021--Present)"
+        summary: "Member (2021--present)"
 
       - title: INGRoup
         date: 2021
         awarder: ""
-        summary: "Member (2021--Present)"
+        summary: "Member (2021--present)"
 
     References:
       - name: Stephen E. Humphrey
         icon: fa-solid fa-user
-        reference: "Alvin H. Clemens Professor of Management & Organization, Smeal College of Business, Pennsylvania State University"
+        reference: "Pennsylvania State University"
 
       - name: Margaret M. Luciano
         icon: fa-solid fa-user
-        reference: "Associate Professor of Management & Organization, Smeal College of Business, Pennsylvania State University"
+        reference: "Pennsylvania State University"
 
       - name: James M. LeBreton
         icon: fa-solid fa-user
-        reference: "Professor of Social Data Analytics and Psychology, Pennsylvania State University"
+        reference: "Pennsylvania State University"
 
       - name: John Hollenbeck
         icon: fa-solid fa-user
-        reference: "University Distinguished Professor and Associate Dean for Research, Eli Broad Graduate School of Business, Michigan State University"
+        reference: "Michigan State University"
 
       - name: Russell R. Barton
         icon: fa-solid fa-user
-        reference: "Distinguished Professor of Supply Chain and Information Systems, Smeal College of Business, Pennsylvania State University"
+        reference: "Pennsylvania State University"
