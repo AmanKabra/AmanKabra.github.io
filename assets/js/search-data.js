@@ -65,13 +65,6 @@ ninja.data = [{
           window.open("/assets/pdf/Kabra_CV.pdf", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%61%6D%61%6E.%6B%61%62%72%61@%70%73%75.%65%64%75", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
