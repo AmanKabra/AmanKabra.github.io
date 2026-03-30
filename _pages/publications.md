@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Refereed publications, works under review, and practice-oriented writing.
 nav: true
 nav_order: 2

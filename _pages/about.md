@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Incoming Assistant Professor, <a href='https://business.okstate.edu/management/'>Spears School of Business</a>, Oklahoma State University<br>
