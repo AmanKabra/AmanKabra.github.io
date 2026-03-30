@@ -9,6 +9,8 @@ cv:
   social_networks:
     - network: Email
       username: aman.kabra@psu.edu
+    - network: LinkedIn
+      username: amankabra
 
   sections:
     Education:
@@ -63,21 +65,48 @@ cv:
         start_date: 2017
         end_date: 2018
 
-    Awards:
-      - title: Ossian R. MacKenzie Teaching Award
+      - company: Credit Suisse, ISB, HUL, MAHLE
+        position: Intern
+        location: India
+        start_date: 2014
+        end_date: 2017
+        summary: Summer and winter internships during undergraduate program.
+
+    Conference Presentations:
+      - title: "Expertise evaluation: A dimensional framework"
+        date: 2026
+        awarder: Academy of Management
+        summary: "86th Annual Meeting, Philadelphia, PA (with M. E. Schouten, S. E. Humphrey)"
+
+      - title: "Confidence asymmetry in multiteam systems"
+        date: 2025
+        awarder: INGRoup
+        summary: "20th Annual Conference, Rotterdam, Netherlands (with S. E. Humphrey, M. M. Luciano, M. K. Watson)"
+
+      - title: "Imagined interactions at work"
+        date: 2025
+        awarder: Academy of Management
+        summary: "85th Annual Meeting, Copenhagen, Denmark (with E. Kwon, S. Yoon, J. LePine, M. Cannon, V. Blocker)"
+
+      - title: "Confidence asymmetry in multiteam systems"
         date: 2024
-        awarder: Pennsylvania State University
-        summary: "One doctoral student across Smeal College of Business ($1,000)"
+        awarder: Academy of Management
+        summary: "84th Annual Meeting, Chicago, IL. Symposium chair."
 
-      - title: Gerald I. Susman Endowment Award
-        date: 2023
-        awarder: Pennsylvania State University
-        summary: "$1,400"
+      - title: "Computational modeling in groups and teams"
+        date: 2024
+        awarder: INGRoup
+        summary: "19th Annual Conference, Charlotte, NC. Symposium co-chair."
 
-      - title: Management & Organization Enhancement Scholarship
-        date: 2021
-        awarder: Pennsylvania State University
-        summary: "$1,470 per year (2021--2026)"
+      - title: "Expertise recognition: A multilevel process model"
+        date: 2022
+        awarder: INGRoup
+        summary: "17th Annual Conference, Hamburg, Germany"
+
+      - title: "Desensitizing taboo tradeoffs"
+        date: 2022
+        awarder: Academy of Management
+        summary: "82nd Annual Meeting, Seattle, WA (with A. Gupta, M. M. Pillutla)"
 
     Grants:
       - title: Task Interdependence in Multiteam Systems
@@ -99,6 +128,33 @@ cv:
         date: 2022
         awarder: Pennsylvania State University
         summary: "$2,979"
+
+    Awards:
+      - title: Ossian R. MacKenzie Teaching Award
+        date: 2024
+        awarder: Pennsylvania State University
+        summary: "One doctoral student across Smeal College of Business ($1,000)"
+
+      - title: Gerald I. Susman Endowment Award
+        date: 2023
+        awarder: Pennsylvania State University
+        summary: "$1,400"
+
+      - title: "Management & Organization Enhancement Scholarship"
+        date: 2021
+        awarder: Pennsylvania State University
+        summary: "$1,470 per year (2021--2026)"
+
+    Teaching:
+      - title: "Entrepreneurial Mindset (Fall 2024)"
+        date: 2024
+        awarder: Penn State, Smeal College of Business
+        summary: "Undergraduate, 3 credits (student rating: 5/5)"
+
+      - title: "Entrepreneurial Mindset (Spring 2024)"
+        date: 2024
+        awarder: Penn State, Smeal College of Business
+        summary: "Undergraduate, 3 credits (student rating: 5/5)"
 
     Skills:
       - name: Programming
@@ -137,6 +193,11 @@ cv:
         date: 2019
         issuer: QAI Global
         icon: fa-solid fa-award
+
+      - name: Technology Entrepreneurship
+        date: 2016
+        issuer: Indian School of Business
+        icon: fa-solid fa-lightbulb
 
       - name: Lean Six Sigma Green Belt
         date: 2015

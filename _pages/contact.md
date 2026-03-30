@@ -11,6 +11,8 @@ nav_order: 5
 
 **Email:** [aman.kabra@psu.edu](mailto:aman.kabra@psu.edu)
 
+**LinkedIn:** [linkedin.com/in/amankabra](https://www.linkedin.com/in/amankabra/)
+
 ---
 
 **Starting July 2026:**
