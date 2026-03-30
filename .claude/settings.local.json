@@ -37,7 +37,9 @@
       "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
       "WebFetch(domain:www.mdpi.com)",
       "WebFetch(domain:scholar.google.com)",
-      "WebFetch(domain:www.researchgate.net)"
+      "WebFetch(domain:www.researchgate.net)",
+      "Bash(rm -f _data/repositories.yml)",
+      "Bash(ls *.md)"
     ]
   }
 }
