@@ -41,7 +41,12 @@
       "Bash(rm -f _data/repositories.yml)",
       "Bash(ls *.md)",
       "Bash(find '/c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/_includes' -name *.liquid -type f)",
-      "WebFetch(domain:brand.okstate.edu)"
+      "WebFetch(domain:brand.okstate.edu)",
+      "Bash(SITE=\"C:/Users/amank/OneDrive - The Pennsylvania State University/Personal Website\")",
+      "Bash(STOCK=\"/tmp/al-folio-stock\")",
+      "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$STOCK/**)",
+      "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$SITE/**)",
+      "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$SITE/assets/**)"
     ]
   }
 }
