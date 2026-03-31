@@ -21,10 +21,16 @@ My work has been featured in [**The Rockefeller Foundation**](https://www.rockef
 
 ### Publications
 
-{% include bib_search.liquid %}
+<div class="publications">
+
+{% bibliography --query @article %}
+
+</div>
+
+### Manuscripts Under Review & In Preparation
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @unpublished %}
 
 </div>
