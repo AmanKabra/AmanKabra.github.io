@@ -59,9 +59,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-joining-the-department-of-management-at-the-spears-school-of-business-oklahoma-state-university-as-a-tenure-track-assistant-professor-in-organizational-behavior-effective-july-2026",
           title: 'I will be joining the Department of Management at the Spears School of...',
           description: "",
-          section: "News",},{id: "teachings-entrepreneurial-mindset",
-          title: 'Entrepreneurial Mindset',
-          description: "This undergraduate course develops students&#39; ability to think entrepreneurially, identify opportunities, and apply creative problem-solving in business contexts.",
+          section: "News",},{id: "teachings-entrepreneurial-mindset-mgmt-215",
+          title: 'Entrepreneurial Mindset (MGMT 215)',
+          description: "A 3-credit undergraduate course on entrepreneurial reasoning, customer discovery, and problem-based learning.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/entrepreneurial-mindset/";
             },},{
