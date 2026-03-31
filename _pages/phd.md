@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Beyond Workload: How Demand Configurations Shape Employee Psychological Strain
+## Beyond Workload: How Demand Configurations Shape Strain
 
 Aman Kabra, Pennsylvania State University
 
