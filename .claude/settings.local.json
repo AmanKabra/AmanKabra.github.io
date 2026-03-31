@@ -46,7 +46,9 @@
       "Bash(STOCK=\"/tmp/al-folio-stock\")",
       "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$STOCK/**)",
       "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$SITE/**)",
-      "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$SITE/assets/**)"
+      "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$SITE/assets/**)",
+      "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/**)",
+      "Bash(python -c \":*)"
     ]
   }
 }
