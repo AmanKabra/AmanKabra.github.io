@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "Refereed publications, works under review, and practice-oriented writing.",
+  },{id: "nav-research",
+          title: "Research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/phd/";
           },
-        },{id: "nav-contact",
-          title: "Contact",
+        },{id: "nav-work-with-me",
+          title: "Work With Me",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -84,5 +84,12 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/amankabra", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=TCkJa04AAAAJ", "_blank");
         },
       },];
