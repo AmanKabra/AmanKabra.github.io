@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-contact",
-          title: "Contact",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/contact/";
-          },
         },{id: "nav-ph-d",
           title: "Ph.D.",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/phd/";
+          },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
           },
         },{id: "news-joined-a-2-2m-u-s-army-research-institute-grant-on-task-interdependence-in-multiteam-systems-as-the-doctoral-student-lead-at-penn-state-pi-hollenbeck-humphrey-lepine",
           title: 'Joined a $2.2M U.S. Army Research Institute grant on task interdependence in multiteam...',
