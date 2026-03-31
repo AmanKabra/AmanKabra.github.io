@@ -25,10 +25,10 @@ Personally, I thank my parents and my sister Aayushi — had they not given me t
 
 ### Committee
 
-- **Stephen E. Humphrey**, Alvin H. Clemens Professor of Management & Organization, Dissertation Advisor, Committee Chair
-- **Margaret M. Luciano**, Associate Professor of Management & Organization
-- **Semin Park**, Assistant Professor of Management & Organization
-- **James M. LeBreton**, Professor of Social Data Analytics & Psychology
+- **[Stephen E. Humphrey](https://directory.smeal.psu.edu/seh25)**, Alvin H. Clemens Professor of Management & Organization, Dissertation Advisor, Committee Chair
+- **[Margaret M. Luciano](https://directory.smeal.psu.edu/mzl6016)**, Associate Professor of Management & Organization
+- **[Semin Park](https://directory.smeal.psu.edu/svp6397)**, Assistant Professor of Management & Organization
+- **[James M. LeBreton](https://psych.la.psu.edu/directory/jml70)**, Professor of Social Data Analytics & Psychology
 
 ### Abstract
 

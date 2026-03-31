@@ -162,20 +162,20 @@ cv:
     References:
       - name: Stephen E. Humphrey
         icon: fa-solid fa-user
-        reference: "Pennsylvania State University"
+        reference: "[Pennsylvania State University](https://directory.smeal.psu.edu/seh25)"
 
       - name: Margaret M. Luciano
         icon: fa-solid fa-user
-        reference: "Pennsylvania State University"
+        reference: "[Pennsylvania State University](https://directory.smeal.psu.edu/mzl6016)"
 
       - name: James M. LeBreton
         icon: fa-solid fa-user
-        reference: "Pennsylvania State University"
+        reference: "[Pennsylvania State University](https://psych.la.psu.edu/directory/jml70)"
 
       - name: John Hollenbeck
         icon: fa-solid fa-user
-        reference: "Michigan State University"
+        reference: "[Michigan State University](https://broad.msu.edu/profile/jrh/)"
 
       - name: Russell R. Barton
         icon: fa-solid fa-user
-        reference: "Pennsylvania State University"
+        reference: "[Pennsylvania State University](https://directory.smeal.psu.edu/rrb2)"
