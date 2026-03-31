@@ -28,6 +28,6 @@ I study **how people make decisions** — as individuals, in teams, across multi
 
 I am finishing my Ph.D. in Organizational Behavior at Penn State, advised by Stephen E. Humphrey, and joining Oklahoma State as a tenure-track Assistant Professor in July 2026.
 
-I chase these questions with whatever quant methods the problem demands — experiments, field studies, computational models, natural language processing, and network analysis.
+I chase this question with whatever quant methods the problem demands — experiments, field studies, computational models, natural language processing, and network analysis.
 
 I came to organizational behavior from operations — health care operations research at the Indian School of Business, an edtech startup, and global ad campaigns at InMobi.
