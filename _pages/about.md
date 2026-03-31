@@ -24,8 +24,10 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. candidate in Management and Organization (Organizational Behavior track) at the Smeal College of Business, Pennsylvania State University, where I am advised by Stephen E. Humphrey. Starting July 2026, I will join the Department of Management at the Spears School of Business, Oklahoma State University, as a tenure-track Assistant Professor.
+I study **how people make decisions** — as individuals, in teams, across multiteam systems, and within organizations.
 
-My research focuses on **judgment and decision making** and **group dynamics**. My dissertation, *Beyond Workload: How Demand Configurations Shape Collective Strain*, examines how the structure of demands---not just their volume---shapes strain in collectives. Across my work, I use experiments, field studies, and computational modeling to study how individuals and teams evaluate expertise, make decisions under uncertainty, and coordinate within complex organizational structures such as multiteam systems.
+I am finishing my Ph.D. in Organizational Behavior at Penn State, advised by Stephen E. Humphrey, and joining Oklahoma State as a tenure-track Assistant Professor in July 2026.
 
-Before my doctoral studies, I worked as a Research Associate at the Indian School of Business, founded an operational improvement consultancy, and managed global advertising campaigns at InMobi. I hold a B.E. (Hons.) in Manufacturing Engineering from BITS Pilani.
+I chase these questions with whatever quant methods the problem demands — experiments, field studies, computational models, natural language processing, and network analysis.
+
+I came to organizational behavior from operations — health care operations research at the Indian School of Business, an edtech startup, and global ad campaigns at InMobi.
