@@ -1,28 +1,17 @@
 ---
 layout: page
 permalink: /contact/
-title: Contact
+title: Work With Me
 description:
 nav: true
 nav_order: 6
 ---
 
+**If you are a researcher.** Every organizational problem, at its core, is a decision problem. If that framing excites you, we should talk. I am looking for collaborators interested in judgment and decision making (JDM) at different levels of analysis: individual, dyad, team, multiteam system, and organization.
+
+**If you are a practitioner.** If your organization could use a hand improving decisions under uncertainty, I would be keen to explore how I can help.
+
+Either way, I look forward to the conversation.
+
 **Aman Kabra, Ph.D.**
-
-**Email:** [aman.kabra@psu.edu](mailto:aman.kabra@psu.edu)
-
-**LinkedIn:** [linkedin.com/in/amankabra](https://www.linkedin.com/in/amankabra/)
-
----
-
-**Starting July 2026:**
-Department of Management
-Spears School of Business
-Oklahoma State University
-Stillwater, OK 74078
-
-**Current:**
-Department of Management & Organization
-Smeal College of Business
-Pennsylvania State University
-University Park, PA 16802
+[aman.kabra@psu.edu](mailto:aman.kabra@psu.edu) | [LinkedIn](https://www.linkedin.com/in/amankabra/)

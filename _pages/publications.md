@@ -1,15 +1,17 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: Refereed publications, works under review, and practice-oriented writing.
+title: Research
+description:
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+Every choice an organization makes — who to hire, which project to fund, what actions to take — traces back to a judgment call. Strip away the context, and what remains is a person (or a group of people) weighing uncertain evidence and deciding. That is what I study.
 
-<!-- Bibsearch Feature -->
+My research asks how people judge, decide, and coordinate — and how these processes change when the decision maker is not one person but a team, a multiteam system, or an entire organization. I draw on the judgment and decision making (JDM) space to understand when human judgment works, when it breaks down, and what structural conditions tip the balance.
+
+---
 
 {% include bib_search.liquid %}
 
