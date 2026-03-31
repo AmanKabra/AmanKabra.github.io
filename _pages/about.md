@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Incoming Assistant Professor, <a href='https://business.okstate.edu/management/'>Spears School of Business</a>, Oklahoma State University<br>
-  Ph.D. Candidate, <a href='https://www.smeal.psu.edu/management'>Smeal College of Business</a>, Pennsylvania State University
+  Incoming Assistant Professor, <a href='https://business.okstate.edu/management/'>Spears School of Business</a>, Oklahoma State<br>
+  Ph.D., <a href='https://www.smeal.psu.edu/management'>Smeal College of Business</a>, Penn State
 
 profile:
   align: right
