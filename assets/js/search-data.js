@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-resources",
+          title: "Resources",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Courses taught at the Smeal College of Business, Pennsylvania State University.",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-resources",
-          title: "Resources",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resources/";
           },
         },{id: "nav-ph-d",
           title: "Ph.D.",
