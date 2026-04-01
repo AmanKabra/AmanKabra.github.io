@@ -11,7 +11,7 @@ nav_order: 6
 
 Aman Kabra, Pennsylvania State University
 
-A dissertation is the work of one person on paper, but never in practice. The people behind the work deserve to be on the website too. Therefore, I first share below the acknowledgment section from my dissertation.
+*A dissertation is the work of one person on paper, but never in practice. The people behind the work deserve to be on the website too. Therefore, I first share below the acknowledgment section from my dissertation.*
 
 ---
 
