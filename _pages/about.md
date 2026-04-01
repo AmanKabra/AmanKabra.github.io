@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I study **how people make decisions** — individually, in teams, and in multiteam systems.
+I study **how people make decisions** — as an individual, as a team, and as a multiteam system.
 
 I am finishing my Ph.D. in Organizational Behavior at Penn State, advised by Stephen E. Humphrey, and joining Oklahoma State as a tenure-track Assistant Professor in July 2026.
 
