@@ -17,7 +17,7 @@ nav_order: 3
 pip install apastats
 ```
 
-*I have been building `apastats` throughout my five years of doctoral training. It was a private tool until now.*
+*I built `apastats` across five years of doctoral journey. It lived in a private repo the entire time. Now it's yours.*
 
 I built `apastats` to solve three problems. First, no Python package produces the statistical reporting conventions required by OB journals like *JAP*. Researchers either reformat output manually or abandon Python for SPSS or R. Second, statistical software applies consequential settings silently (bootstrap resamples, CI type, centering, estimator), and when these go unreported, readers cannot evaluate whether findings would hold under alternative specifications. `apastats` prints all parameter settings alongside every output, making methods sections complete by construction. Third, a disproportionate share of researcher time goes to formatting rather than thinking. Every decimal place, leading zero, and significance star in an APA 7th manuscript must follow precise rules, and `apastats` enforces them programmatically, returning formatted tables, structured result objects, `.report()` strings, and direct export to Word, LaTeX, or CSV.
 
