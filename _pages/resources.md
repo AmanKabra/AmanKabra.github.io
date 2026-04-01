@@ -4,7 +4,7 @@ permalink: /resources/
 title: Resources
 description:
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 ## apastats
@@ -17,9 +17,7 @@ nav_order: 5
 pip install apastats
 ```
 
-Python is increasingly the language of choice for analytical pipelines across the social sciences. Yet no Python package exists for the statistical reporting conventions required by journals in organizational behavior and adjacent fields, such as the *Journal of Applied Psychology*. Researchers who work in Python are forced to piece together output from general-purpose libraries and reformat manually. `apastats` closes this gap: it runs the standard analyses organizational scholars need and produces publication-ready output in a single step.
-
-The package also addresses a transparency problem. Statistical software routinely applies consequential settings silently — the number of bootstrap resamples, the type of confidence interval, whether variables are mean-centered. `apastats` prints all parameter settings alongside every analysis output, making methods sections complete by construction.
+`apastats` exists because of three problems. First, no Python package produces the statistical reporting conventions required by OB journals like *JAP*. Researchers either reformat output manually or abandon Python for SPSS or R. Second, statistical software applies consequential settings silently (bootstrap resamples, CI type, centering, estimator), and when these go unreported, readers cannot evaluate whether findings would hold under alternative specifications. `apastats` prints all parameter settings alongside every output, making methods sections complete by construction. Third, a disproportionate share of researcher time goes to formatting rather than thinking. Every decimal place, leading zero, and significance star in an APA 7th manuscript must follow precise rules, and `apastats` enforces them programmatically, returning formatted tables, structured result objects, `.report()` strings, and direct export to Word, LaTeX, or CSV.
 
 | Module | What it does |
 |---|---|
