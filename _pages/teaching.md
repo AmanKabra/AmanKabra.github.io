@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught at the Smeal College of Business, Pennsylvania State University.
+description:
 nav: true
 nav_order: 4
 calendar: false
