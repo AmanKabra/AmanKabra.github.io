@@ -37,4 +37,4 @@ For full documentation, examples, and source code, see the [GitHub repository](h
 
 **Citation:**
 
-> Kabra, A. (2026). *apastats: APA 7th edition compliant statistical analyses for organizational science* (Version 0.1.6) [Computer software]. https://github.com/AmanKabra/apastats
+> Kabra, A. (2026). *apastats: APA 7th edition compliant statistical analyses for organizational science* [Computer software]. https://github.com/AmanKabra/apastats
