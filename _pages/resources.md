@@ -11,11 +11,8 @@ nav_order: 3
 
 **APA 7th edition compliant statistical analyses for organizational science research. Think STATA, but open-source, in Python, and APA formatted for publication out of the box.**
 
-[GitHub](https://github.com/AmanKabra/apastats) | [PyPI](https://pypi.org/project/apastats/)
+[GitHub](https://github.com/AmanKabra/apastats)
 
-```bash
-pip install apastats
-```
 
 *I don't believe academic research should depend on closed-source, paid software. I built `apastats` across my five-year Ph.D. journey. It lived in a private repo the entire time. Now it's yours.*
 
