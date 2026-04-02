@@ -19,18 +19,19 @@ pip install apastats
 
 *I don't believe academic research should depend on closed-source, paid software. I built `apastats` across my five-year Ph.D. journey. It lived in a private repo the entire time. Now it's yours.*
 
-I built `apastats` to solve three problems. First, no Python package produces the statistical reporting conventions required by OB journals like *JAP*. Researchers either reformat output manually or abandon Python for SPSS or R. Second, statistical software applies consequential settings silently (bootstrap resamples, CI type, centering, estimator), and when these go unreported, readers cannot evaluate whether findings would hold under alternative specifications. `apastats` prints all parameter settings alongside every output, making methods sections complete by construction. Third, a disproportionate share of researcher time goes to formatting rather than thinking. Every decimal place, leading zero, and significance star in an APA 7th manuscript must follow precise rules, and `apastats` enforces them programmatically, returning formatted tables, structured result objects, `.report()` strings, and direct export to Word, LaTeX, or CSV.
+I built `apastats` to solve three problems. First, no Python package produces the statistical reporting conventions required by OB journals like *JAP*. Researchers either reformat output manually or abandon Python for SPSS or R. Second, statistical software applies consequential settings silently (bootstrap resamples, CI type, centering, estimator), and when these go unreported, readers cannot evaluate whether findings would hold under alternative specifications. `apastats` prints all parameter settings alongside every output, making methods sections complete by construction. Third, a disproportionate share of researcher time goes to formatting rather than thinking. Every decimal place, leading zero, and significance star in an APA 7th manuscript must follow precise rules, and `apastats` enforces them programmatically, returning formatted tables, structured result objects, `.report()` strings, and direct export to Word and CSV.
 
 | Module | What it does |
 |---|---|
-| **Descriptives** | JAP "Table 1": means, SDs, correlations, alphas on diagonal |
-| **Moderation** | Hierarchical regression, simple slopes, Johnson-Neyman |
-| **Mediation** | Bootstrap indirect effects, single and parallel mediators |
-| **Conditional Process** | Moderated mediation (PROCESS Models 7, 8, 14, 15) |
-| **CFA** | Fit indices, standardized loadings, CR, AVE, Fornell-Larcker, HTMT |
-| **Scale Reliability** | Alpha, omega, composite reliability, item-total correlations |
-| **Effect Sizes** | Cohen's *d*, *f*-squared, partial eta-squared |
-| **Export** | APA-formatted Word, LaTeX, CSV |
+| Module | What it does |
+| **Descriptives** | JAP "Table 1": means, SDs, lower-triangular correlations, alphas on diagonal, significance stars |
+| **Moderation** | Hierarchical regression, simple slopes at +/- 1 SD, Johnson-Neyman regions of significance, interaction plots |
+| **Mediation** | Bootstrap indirect effects (10,000 resamples), single and parallel mediators, path diagrams |
+| **Conditional Process** | Moderated mediation (PROCESS Models 7, 8, 14, 15), index of moderated mediation with bootstrap CI |
+| **CFA** | Confirmatory factor analysis via semopy; fit indices (chi-sq, CFI, TLI, RMSEA with 90% CI, SRMR), standardized loadings, CR, AVE, Fornell-Larcker, HTMT |
+| **Scale Reliability** | Cronbach's alpha, McDonald's omega, composite reliability, AVE, corrected item-total correlations, alpha-if-deleted |
+| **Effect Sizes** | Cohen's *d* (with CI), *f*-squared, R-squared interpretation, partial eta-squared |
+| **Export** | APA-formatted Word (.docx), CSV |
 
 For full documentation, examples, and source code, see the [GitHub repository](https://github.com/AmanKabra/apastats).
 
