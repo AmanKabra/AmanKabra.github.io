@@ -23,7 +23,6 @@ I built `apastats` to solve three problems. First, no Python package produces th
 
 | Module | What it does |
 |---|---|
-| Module | What it does |
 | **Descriptives** | JAP "Table 1": means, SDs, lower-triangular correlations, alphas on diagonal, significance stars |
 | **Moderation** | Hierarchical regression, simple slopes at +/- 1 SD, Johnson-Neyman regions of significance, interaction plots |
 | **Mediation** | Bootstrap indirect effects (10,000 resamples), single and parallel mediators, path diagrams |
