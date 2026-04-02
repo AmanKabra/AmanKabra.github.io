@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses taught at the Smeal College of Business, Pennsylvania State University.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
