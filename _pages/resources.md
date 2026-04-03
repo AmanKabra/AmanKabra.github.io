@@ -9,7 +9,7 @@ nav_order: 3
 
 ## apastats
 
-**APA 7th edition compliant statistical analyses for organizational science research. Think STATA, but open-source, in Python, and APA formatted for publication out of the box.**
+**APA 7th edition compliant statistical analyses for organizational science research. The project is in early development. The long-term goal is to become what Stata is for economists, but open-source, in Python, and APA formatted for publication out of the box.**
 
 [GitHub](https://github.com/AmanKabra/apastats)
 
