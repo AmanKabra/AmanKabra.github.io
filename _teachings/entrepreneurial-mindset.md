@@ -11,7 +11,7 @@ course_id: entrepreneurial-mindset
 
 ## Course Overview
 
-MGMT 215 is a 3-credit undergraduate course at the Smeal College of Business. Students develop entrepreneurial skills through problem-based learning — customer interviews, business model iteration, experiment design, and process pitches. No lectures; just real problems and real work.
+MGMT 215 is a 3-credit undergraduate course at the Smeal College of Business. Students develop entrepreneurial skills through problem-based learning — customer interviews, business model iteration, experiment design, and process pitches.
 
 ## Semesters Taught
 
