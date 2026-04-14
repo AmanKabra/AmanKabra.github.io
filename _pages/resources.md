@@ -33,7 +33,7 @@ For full documentation, examples, and source code, see the [GitHub repository](h
 
 **Disclaimer:** `apastats` is provided as is, without warranty of any kind. While the package includes an extensive test suite (320 tests at the time of writing) and every effort has been made to ensure correctness, errors in statistical software are always possible. Users are strongly encouraged to cross-verify results against at least one independent tool (e.g., PROCESS for SPSS, lavaan for R, jamovi) before relying on any output for publication. This is standard practice in quantitative research, and it is what I do in my own work. The project is under active development and building rapidly, but it has not yet undergone external audit. By using this software, you accept full responsibility for verifying the accuracy of any results it produces. I assume no liability for errors, omissions, or consequences arising from the use of this package.
 
-*Found an issue? Open it on [GitHub](https://github.com/AmanKabra/apastats/issues) or send me a note. I will fix it if I am alive. If I am not, well, I won't care. But sincerely, as the community grows, so will this library. Your contributions are welcome.*
+*Found an issue? Open it on [GitHub](https://github.com/AmanKabra/apastats/issues) or send me a note. As the community grows, so will this library. Contributions are welcome.*
 
 **Citation:**
 
