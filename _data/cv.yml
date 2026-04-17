@@ -111,7 +111,7 @@ cv:
     Skills:
       - name: Programming
         icon: fa-solid fa-code
-        keywords: "Python, R, LaTeX"
+        keywords: "Python, R, L<sup>A</sup>T<sub>E</sub>X"
 
       - name: Methods
         icon: fa-solid fa-chart-line

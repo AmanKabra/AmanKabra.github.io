@@ -29,6 +29,8 @@ My work has been featured in [**The Rockefeller Foundation**](https://www.rockef
 
 ### Manuscripts Under Review & In Preparation
 
+*Entries marked with an asterisk (\*) are listed in alphabetical author order, as authorship order has not yet been finalized.*
+
 <div class="publications">
 
 {% bibliography --query @unpublished %}
