@@ -48,7 +48,24 @@
       "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$SITE/**)",
       "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/Personal Website/$SITE/assets/**)",
       "Read(//c/Users/amank/OneDrive - The Pennsylvania State University/**)",
-      "Bash(python -c \":*)"
+      "Bash(python -c \":*)",
+      "Bash(xelatex --version)",
+      "Bash(where xelatex.exe)",
+      "Bash(where lualatex.exe)",
+      "Bash(where pdflatex.exe)",
+      "Bash(where tectonic.exe)",
+      "Read(//c//**)",
+      "Bash(curl -s -L \"https://www.google.com/search?q=Rui+Zhong+Penn+State+Smeal+faculty+management\" -A \"Mozilla/5.0\")",
+      "Bash(curl -s -L \"https://www.google.com/search?q=Federico+Aime+Oklahoma+State+Spears+management+faculty\" -A \"Mozilla/5.0\")",
+      "Bash(curl -s -L \"https://www.google.com/search?q=Maartje+Schouten+faculty+organizational+behavior\" -A \"Mozilla/5.0\")",
+      "Bash(curl -s -L \"https://www.google.com/search?q=Madan+Pillutla+ISB+faculty\" -A \"Mozilla/5.0\")",
+      "Bash(curl -s -L \"https://www.google.com/search?q=Sarang+Deo+ISB+faculty\" -A \"Mozilla/5.0\")",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "WebFetch(domain:www.google.com)",
+      "WebFetch(domain:duckduckgo.com)",
+      "WebFetch(domain:www.bing.com)"
     ]
   }
 }

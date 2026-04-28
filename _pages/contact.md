@@ -4,7 +4,7 @@ permalink: /contact/
 title: Work With Me
 description:
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 **If you are a researcher.** Every organizational problem, at its core, is a decision problem. If that framing excites you, we should talk. I am looking for collaborators interested in judgment and decision making (JDM) at different levels of analysis: individual, dyad, team, multiteam system, and organization.
