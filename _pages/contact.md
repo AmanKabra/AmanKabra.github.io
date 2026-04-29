@@ -32,7 +32,7 @@ Aman Kabra is an organizational behavior scholar who studies how people make dec
 
 **Long (~250 words)**
 
-Aman Kabra is an organizational behavior scholar who studies how people make decisions — as individuals, as teams, and as multiteam systems. He draws on the judgment and decision making (JDM) space to understand when human judgment works, when it breaks down, and what structural conditions tip the balance.
+Aman Kabra is an organizational behavior scholar who studies how people make decisions — as individuals, as teams, and as multiteam systems. He draws on the judgment and decision making (JDM) space to understand when human judgment works, when it breaks down, and what conditions tip the balance.
 
 He is finishing his Ph.D. in Management and Organization at the Smeal College of Business, Pennsylvania State University, advised by Stephen E. Humphrey, and will join Oklahoma State University's Spears School of Business as a tenure-track Assistant Professor in July 2026. His work has appeared in *Academy of Management Annals* and *BMC Health Services Research*, with additional manuscripts under review at *Organizational Behavior and Human Decision Processes* and *Journal of Applied Psychology*. His writing has been featured in *Forbes*, *Mint*, *Times of India*, *Health Management, Policy & Innovation*, and *The Rockefeller Foundation*. He draws on experiments, field studies, computational models, natural language processing, and network analysis.
 

@@ -65,7 +65,14 @@
       "Bash(git push *)",
       "WebFetch(domain:www.google.com)",
       "WebFetch(domain:duckduckgo.com)",
-      "WebFetch(domain:www.bing.com)"
+      "WebFetch(domain:www.bing.com)",
+      "Bash(curl -sI -o /dev/null -w '%{http_code}' https://amankabra.github.io__TRACKED_VAR__)",
+      "Bash(curl -s \"https://amankabra.github.io/resources/\")",
+      "Bash(curl -sI \"https://amankabra.github.io/resources/\")",
+      "Bash(curl -sI \"https://amankabra.github.io/resources/?nocache=$\\(date +%s\\)\" -H \"Cache-Control: no-cache\")",
+      "Bash(curl -s https://amankabra.github.io__TRACKED_VAR__)",
+      "Bash(xargs grep *)",
+      "Bash(curl -s \"https://amankabra.github.io/assets/js/search-data.js\")"
     ]
   }
 }
