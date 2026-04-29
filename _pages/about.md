@@ -26,7 +26,7 @@ latest_posts:
 
 I study **how people make decisions** — as an individual, as a team, and as a multiteam system.
 
-I am a tenure-track Assistant Professor in Organizational Behavior at Oklahoma State. I completed my Ph.D. at Penn State, advised by Stephen E. Humphrey.
+I am an Assistant Professor of Organizational Behavior at Oklahoma State. I completed my Ph.D. at Penn State, advised by Stephen E. Humphrey.
 
 I chase this question with whatever quant methods the problem demands — experiments, field studies, computational models, natural language processing, and network analysis.
 
