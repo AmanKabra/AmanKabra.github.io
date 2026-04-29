@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Incoming Assistant Professor, <a href='https://business.okstate.edu/management/'>Spears School of Business</a>, Oklahoma State<br>
+  Assistant Professor, <a href='https://business.okstate.edu/management/'>Spears School of Business</a>, Oklahoma State<br>
   Ph.D., <a href='https://www.smeal.psu.edu/management'>Smeal College of Business</a>, Penn State
 
 profile:
@@ -26,7 +26,7 @@ latest_posts:
 
 I study **how people make decisions** — as an individual, as a team, and as a multiteam system.
 
-I am finishing my Ph.D. in Organizational Behavior at Penn State, advised by Stephen E. Humphrey, and joining Oklahoma State as a tenure-track Assistant Professor in July 2026.
+I am a tenure-track Assistant Professor in Organizational Behavior at Oklahoma State. I completed my Ph.D. at Penn State, advised by Stephen E. Humphrey.
 
 I chase this question with whatever quant methods the problem demands — experiments, field studies, computational models, natural language processing, and network analysis.
 

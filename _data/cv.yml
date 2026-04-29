@@ -1,6 +1,6 @@
 cv:
   name: Aman Kabra
-  label: Ph.D. Candidate & Incoming Assistant Professor
+  label: Assistant Professor of Organizational Behavior
   email: aman.kabra@psu.edu
   location: USA
   image: ""
@@ -36,7 +36,7 @@ cv:
         position: Assistant Professor (tenure track)
         location: USA
         start_date: 2026
-        summary: Department of Management, Spears School of Business. Effective July 2026.
+        summary: Department of Management, Spears School of Business.
 
       - company: Pennsylvania State University
         position: Graduate Research & Teaching Assistant
