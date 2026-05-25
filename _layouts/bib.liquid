@@ -142,7 +142,7 @@
 
     <!-- Year and Title (APA: (Year). Title.) -->
     <div class="title">
-      {%- if entry.year -%}({{ entry.year }}). {% endif %}{{ entry.title }}.
+      {%- if entry.year and entry.type != 'unpublished' -%}({{ entry.year }}). {% endif %}{{ entry.title }}.
     </div>
 
     <!-- Journal/Periodical (APA: Journal, volume(issue), pages.) -->
@@ -199,6 +199,9 @@
       {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      {% endif %}
+      {% if entry.doi %}
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
