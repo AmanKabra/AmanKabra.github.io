@@ -14,7 +14,7 @@ nav_order: 6
 Either way, I look forward to the conversation.
 
 **Aman Kabra, Ph.D.**
-[aman.kabra@psu.edu](mailto:aman.kabra@psu.edu) | [LinkedIn](https://www.linkedin.com/in/amankabra/)
+[amankabra4@gmail.com](mailto:amankabra4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amankabra/)
 
 ---
 
