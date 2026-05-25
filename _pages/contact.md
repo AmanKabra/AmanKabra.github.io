@@ -20,7 +20,7 @@ Either way, I look forward to the conversation.
 
 ### Speaker Bios
 
-*For conference organizers, podcast hosts, or anyone introducing me at a talk — ready-to-copy bios in three lengths.*
+*Three versions of my bio, at different lengths, for anyone who needs one on hand.*
 
 **Short (~50 words)**
 
