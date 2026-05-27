@@ -9,7 +9,9 @@ nav_order: 5
 
 ## Beyond Workload: How Demand Configurations Shape Strain
 
-Aman Kabra, Pennsylvania State University | [Full Text](https://etda.libraries.psu.edu/catalog/25156azk6189)
+Aman Kabra, Pennsylvania State University
+
+You may access a free, publicly accessible copy of my dissertation [here](https://etda.libraries.psu.edu/catalog/25156azk6189).
 
 *A dissertation is the work of one person on paper, but never in practice. The people behind the work deserve to be on the website too. Therefore, I first share below the acknowledgment section from my dissertation.*
 
