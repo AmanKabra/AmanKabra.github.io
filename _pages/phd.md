@@ -11,8 +11,6 @@ nav_order: 5
 
 Aman Kabra, Pennsylvania State University
 
-You may access a free, publicly accessible copy of my dissertation [here](https://etda.libraries.psu.edu/catalog/25156azk6189).
-
 *A dissertation is the work of one person on paper, but never in practice. The people behind the work deserve to be on the website too. Therefore, I first share below the acknowledgment section from my dissertation.*
 
 ---
@@ -35,3 +33,5 @@ Personally, I thank my parents and my sister Aayushi — had they not given me t
 ### Abstract
 
 Dominant stress frameworks, including the Job Demands-Resources model, treat multiple job demands as additive inputs to psychological strain, overlooking how the structural relationships among concurrent demands shape strain outcomes. This dissertation develops and tests a configurational theory proposing that demand architecture — specifically, the degree of (mis)alignment among demands, their relative intensity, and their operational separation — independently influences strain by generating configuration-induced demands for resource allocation and negation handling. Drawing on Gestalt psychology's principle of Prägnanz, I theorize that individuals simplify complex demand relationships into fundamental categories: aligned (synergistic), orthogonal (distinct but competing for resources), and misaligned (directly conflicting). A pilot study (*N* = 156) established baseline equivalence of constituent demands. Study 1 (*N* = 181) employed a between-subjects experiment with a 3 (Misalignment) × 2 (Incongruence) × 2 (Separation) factorial design using an immersive essay task. Study 2 (*N* = 514; 24,672 observations) employed a within-subject policy-capturing design across 48 scenarios. Results consistently demonstrated that misalignment elevates strain, with opposite configurations producing stronger effects than orthogonal configurations, supporting the proposition that configuration-induced demands operate additively. Demand intensity incongruence reduced strain in both studies and attenuated misalignment effects in Study 2. Task separation reduced strain in Study 2 but did not moderate misalignment effects in either study. These findings advance theory by identifying configuration-induced demands as previously invisible sources of cognitive burden and by demonstrating that strain emerges not merely from how much is demanded but from how demands structurally relate to one another.
+
+You may access a free, publicly accessible copy of my dissertation [here](https://etda.libraries.psu.edu/catalog/25156azk6189).
